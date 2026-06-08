@@ -7,3 +7,5 @@
 ## 4. Add a readme file: git add README.md
 ## 5. Commit changes: git commit -m "first commit"
 ## 6. Create a main branch: git branch -M main
+
+## How to install libraries into virtual environment venv: .\venv\python.exe -m pip install -r requirements.txt
